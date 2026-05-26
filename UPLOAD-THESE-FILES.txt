@@ -1,0 +1,17 @@
+WatchWise final clean files
+
+Upload the CONTENTS of this folder directly to your GitHub repo root:
+
+- index.html
+- manifest.webmanifest
+- service-worker.js
+- .nojekyll
+- icons/
+- UPLOAD-THESE-FILES.txt
+
+Do not upload this outer folder itself.
+
+After publishing, open:
+https://YOUR-USERNAME.github.io/YOUR-REPO/?reset=1
+
+That reset URL clears old service-worker/cache data, then reloads WatchWise.

@@ -1,0 +1,26 @@
+{
+  "name": "WatchWise",
+  "short_name": "WatchWise",
+  "description": "A personal intellectual watchlist for films, anime, documentaries, books, courses, podcasts and learning media.",
+  "start_url": "./index.html?app=watchwise-v3",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4eddd",
+  "theme_color": "#8b2c1f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "/watchwise/"
+}
